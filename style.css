@@ -1,0 +1,135 @@
+*,
+*::before,
+*::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+
+.first-container{
+        display: grid;
+        width: 100%;
+        margin: 0 auto;
+      }
+
+.main-stuff{
+    text-align: center;
+    background: url("images/background-img.jpg") 50% 100% no-repeat;
+    width: 100%;
+    height: 550px;
+    
+}
+
+.main-stuff div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 70px;
+  }
+
+  .main-stuff nav ul {
+    display: flex;
+    width: 960px;
+    height: 35px;
+    align-items: center;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, #8d8c8c, #717171 50%, #5e5e5e 50%, #777);
+  }
+  .main-stuff .container > * {
+    line-height: 40px;
+  }
+  
+  .main-stuff nav ul > *:not(:last-child) {
+    width: 105px;
+    border-right: 0.5px #2926266c solid;
+  }
+  
+  .main-stuff nav ul li {
+    display: flex;
+    justify-content: center;
+  }
+
+  .main-stuff nav li:last-child {
+    position: relative;
+    padding: 15px 25px;
+  }
+  
+  .main-stuff nav ul li:not(:last-child):hover {
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(to bottom, #444343, #6b6b6b 50%, #585858 50%, #3a3a3a);
+  }
+  
+  .main-stuff nav li:last-child input {
+    background-color: transparent;
+    color: #fff;
+    height: 20px;
+    border-radius: 30px;
+    padding: 10px 25px;
+    width: 100px;
+    outline: none;
+  }
+  
+  .main-stuff nav li:last-child i {
+    position: absolute;
+    top: 20px;
+    left: 32px;
+  }
+
+  body {
+    color:#fff;
+  }
+
+ul{
+    list-style-type: none;
+}
+  
+  .second-section * {
+    flex: 1;
+    padding: 1px 1px 1px 0;
+  }
+  main .second-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+  }
+  
+  .second-section div img {
+    width: 100%;
+  }
+
+  footer a {
+    color: #08c;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 2px;
+    height: 100%;
+  }
+  footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin: 20px auto;
+    font-size: 12px;
+  }
+  
+  footer p {
+    color: #6e6e6e;
+  }
+  
+  .footer-up {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  footer .footer-down {
+    display: flex;
+    align-items: center;
+  }
