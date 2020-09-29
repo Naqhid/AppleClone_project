@@ -54,5 +54,5 @@ Give a :star: if you like this project
 - Project originally taken from The Odin Project
 - Project inspired by Microverse Program
 
-## License
+
 
