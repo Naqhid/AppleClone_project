@@ -56,4 +56,3 @@ Give a :star: if you like this project
 
 ## License
 
-This page is [MIT](https://github.com/davidosky007) licence
