@@ -1,11 +1,18 @@
 # AppleClone_project
 
-Simple Web Page Clone Using HTML & CSS
+
+The goal of the project was to make a clone of an old version of the Apple website webpage (2014).
+
+> This project helped me master the concepts of using images as a background and adding gradients to elements.
+> I learned to size and position the page using correct semantic HTML elements appropriately.
+> Correctly setting up the navigation bar.
+
 
 ## Built With
-
 - HTML
-- CSS 3
+- CSS
+- Google fonts
+- Font Awesome
 
  <img src="./images/project-screen.jpg"> 
 
@@ -36,7 +43,7 @@ To get local copy up and running just clone the Repository.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Davidosky007/Naqhid_David_css_positioning/issues).
+Feel free to check the [issues page](https://github.com/Naqhid/AppleClone_project/issues).
 
 ## Show your support
 
@@ -44,8 +51,8 @@ Give a :star: if you like this project
 
 ## Acknowledgments
 
-- [Font-awesome](https://fontawesome.com/) for it's Awesome Icons
-- [Google Fonts](https://fonts.google.com/) for it's Amazing Fonts
+- Project originally taken from The Odin Project
+- Project inspired by Microverse Program
 
 ## License
 
