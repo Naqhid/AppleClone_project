@@ -7,12 +7,12 @@ Simple Web Page Clone Using HTML & CSS
 - HTML
 - CSS 3
 
- <img src="./assets/img/screenshot.jpg"> 
+ <img src="./images/project-screen.jpg"> 
 
 
 ## Live Demo
 
-[Live Demo Link](https://davidosky007.github.io/Naqhid_David_css_positioning/)
+[Live Demo Link](https://naqhid.github.io/AppleClone_project/)
 
 ## Getting Started
 
